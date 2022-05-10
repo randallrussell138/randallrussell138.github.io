@@ -1702,3 +1702,12 @@ input, select, textarea {
 			font-size: 16px;
 			padding: 16px 32px;
 		  }
+
+		  /* Code for Resume */
+
+		  .resume{
+			color: red;
+			background-color: #000000;
+			padding: 16px 32px;
+			border-radius: 150px;
+		  }
